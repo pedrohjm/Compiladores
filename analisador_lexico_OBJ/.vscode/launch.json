@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch App (analisador_lexico_OBJ)",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "analisador_lexico_OBJ",
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}

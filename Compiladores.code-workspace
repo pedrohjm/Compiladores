@@ -1,0 +1,39 @@
+{
+	"folders": [
+		{
+			"name": "analisador_lexico",
+			"path": "analisador_lexico"
+		},
+		{
+			"name": "analisador_lexico_PPM",
+			"path": "analisador_lexico_PPM"
+		},
+		{
+			"name": "analisador_lexico_MTL",
+			"path": "analisador_lexico_MTL"
+		},
+		{
+			"name": "analisador_lexico_OBJ",
+			"path": "analisador_lexico_OBJ"
+		},
+		{
+			"name": "Compiladores (arquivos soltos)",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			"analisador_lexico": true,
+			"analisador_lexico_PPM": true,
+			"analisador_lexico_MTL": true,
+			"analisador_lexico_OBJ": true
+		},
+		"java.import.exclusions": [
+			"**/node_modules/**",
+			"**/.metadata/**",
+			"**/archetype-resources/**",
+			"**/META-INF/maven/**",
+			"**/.git/**"
+		]
+	}
+}
