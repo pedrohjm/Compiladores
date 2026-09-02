@@ -1,0 +1,11 @@
+# Saida de compilacao Java
+bin/
+*.class
+
+# Build tools (caso apareçam subprojetos Maven/Gradle)
+target/
+build/
+
+# Arquivos de sistema/editor
+.DS_Store
+Thumbs.db

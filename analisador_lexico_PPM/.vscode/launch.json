@@ -7,7 +7,8 @@
             "request": "launch",
             "mainClass": "App",
             "projectName": "analisador_lexico_PPM",
-            "cwd": "${workspaceFolder}"
+            "cwd": "${workspaceFolder}",
+            "console": "integratedTerminal"
         }
     ]
 }

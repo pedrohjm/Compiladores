@@ -17,6 +17,10 @@
 			"path": "analisador_lexico_OBJ"
 		},
 		{
+			"name": "analisador_lexico_PASCAL",
+			"path": "analisador_lexico_PASCAL"
+		},
+		{
 			"name": "Compiladores (arquivos soltos)",
 			"path": "."
 		}
@@ -26,7 +30,8 @@
 			"analisador_lexico": true,
 			"analisador_lexico_PPM": true,
 			"analisador_lexico_MTL": true,
-			"analisador_lexico_OBJ": true
+			"analisador_lexico_OBJ": true,
+			"analisador_lexico_PASCAL": true
 		},
 		"java.import.exclusions": [
 			"**/node_modules/**",
