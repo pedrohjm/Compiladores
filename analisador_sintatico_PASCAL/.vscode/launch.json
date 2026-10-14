@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch App (analisador_sintatico_PASCAL)",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "analisador_sintatico_PASCAL",
+            "cwd": "${workspaceFolder}",
+            "console": "integratedTerminal"
+        }
+    ]
+}

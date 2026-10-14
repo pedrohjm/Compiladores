@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch App (analisador_sintatico_MTL)",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "analisador_sintatico_MTL",
+            "cwd": "${workspaceFolder}",
+            "console": "integratedTerminal"
+        }
+    ]
+}

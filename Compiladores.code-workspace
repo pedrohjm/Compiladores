@@ -21,6 +21,26 @@
 			"path": "analisador_lexico_PASCAL"
 		},
 		{
+			"name": "analisador_sintatico_Professor",
+			"path": "analisador_sintatico_Professor"
+		},
+		{
+			"name": "analisador_sintatico_PPM",
+			"path": "analisador_sintatico_PPM"
+		},
+		{
+			"name": "analisador_sintatico_MTL",
+			"path": "analisador_sintatico_MTL"
+		},
+		{
+			"name": "analisador_sintatico_OBJ",
+			"path": "analisador_sintatico_OBJ"
+		},
+		{
+			"name": "analisador_sintatico_PASCAL",
+			"path": "analisador_sintatico_PASCAL"
+		},
+		{
 			"name": "Compiladores (arquivos soltos)",
 			"path": "."
 		}
@@ -31,7 +51,12 @@
 			"analisador_lexico_PPM": true,
 			"analisador_lexico_MTL": true,
 			"analisador_lexico_OBJ": true,
-			"analisador_lexico_PASCAL": true
+			"analisador_lexico_PASCAL": true,
+			"analisador_sintatico_Professor": true,
+			"analisador_sintatico_PPM": true,
+			"analisador_sintatico_MTL": true,
+			"analisador_sintatico_OBJ": true,
+			"analisador_sintatico_PASCAL": true
 		},
 		"java.import.exclusions": [
 			"**/node_modules/**",
